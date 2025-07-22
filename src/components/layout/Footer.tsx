@@ -88,7 +88,7 @@ const Footer = () => {
         <div className="border-t border-secondary-foreground/20 mt-8 pt-6">
           <div className="flex flex-col md:flex-row justify-between items-center gap-4">
             <div className="text-sm opacity-80">
-              © 2024 SecuritySuperMarket.org. All rights reserved. | Website by Lovable
+              © 2025 SecuritySuperMarket.org. All rights reserved. 
             </div>
             <div className="flex gap-6 text-xs">
               <Link to="/privacy" className="opacity-80 hover:opacity-100 transition-opacity">Privacy Policy</Link>
